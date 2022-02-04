@@ -38,7 +38,7 @@ img:nth-child(odd) {
 }
 
 img:nth-child(even):hover {
-  filter: grayscale();
+  filter: opacity(80%);
   border: 5px dashed;
   cursor: pointer;
 }
